@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.block1,
+.block2,
+.block3 {height: 33.33333vh}
+
+.block2 {
+    background-color: #FFFFFF;
+    background: url(./ashoka_Chakra.png) center center no-repeat;
+    background-size: contain;
+}
+
+.block1 {background-color: #FF9933}
+.block3 {background-color: #138808}
